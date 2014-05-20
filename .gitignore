@@ -1,0 +1,3 @@
+// My first C++ program
+<include> #iostream
+std::count "Hello!"
